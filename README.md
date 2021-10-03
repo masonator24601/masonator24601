@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jack
+- 👀 I’m interested in computers and math and stuff
+- 🌱 I’m currently learning AWS, Python, Javascript and other good stuff
+- 💞️ I’m looking to collaborate on stuff
+- 📫 How to reach me: masonjack116@gmail.com
